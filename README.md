@@ -30,9 +30,9 @@
 ![screenshot](Images/Screenshot.png)
 
 ## Key Features
-Shows status of your VPN (connected/not connected)\n
-Displays status of vpn, location, local ip address and map with approximate location
-Droptop icon changes from red when disconnected to green when connected
+Shows status of your VPN (connected/not connected)<br />
+Displays status of vpn, location, local ip address and map with approximate location<br />
+Droptop icon changes from red when disconnected to green when connected<br />
 
 ## How to use
 Connect your VPN and the app will update automatically.
