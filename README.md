@@ -37,7 +37,7 @@ Connect your VPN and the app will update automatically.
 https://github.com/papa-boynton/VPN_Status/releases/latest
 
 ## Credits
-Written by [Mike Boynton](https://github.com/papa-boynton)
+Written by [TheyCallMePapa](https://github.com/papa-boynton)
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
