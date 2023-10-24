@@ -41,5 +41,3 @@ Written by [TheyCallMePapa](https://github.com/papa-boynton)
 
 ## License
 Creative Commons Attribution-Non-Commercial-Share Alike 3.0
-
-[![Image of counter](https://github.com/papa-boynton/counter/blob/master/svg/584236136/badge.svg)](https://github.com/papa-boynton/counter/blob/master/readme/584236136/week.md)
